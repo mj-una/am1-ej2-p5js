@@ -1,7 +1,8 @@
-// ejercicio 2 p5js
 // martin julio
+// 12-4-23
+// ejercicio 2 interactividad en p5js
+// informatica aplicada 1 - catedra bedoian 
 // basado en obra de yakov chernikhov
-// 12.4.23
 
 let entX, entY, mvX, mvY;
 
